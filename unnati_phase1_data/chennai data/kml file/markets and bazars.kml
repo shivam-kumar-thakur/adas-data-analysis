@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>markets and bazars in chennai</name>
+	<Placemark id="1.2.1">
+		<name>Zam Bazaar Market</name>
+		<address>15, Fakir Sahib St, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>15, Fakir Sahib St, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52661f5901d2a3:0xc327ec8cd0e14ca1&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52661f5901d2a3:0xc327ec8cd0e14ca1&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27216709999999,13.0595631,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Fancy Bazaar</name>
+		<address>37, Pycrofts Rd, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<phoneNumber>044 2844 0971</phoneNumber>
+		<snippet>37, Pycrofts Rd, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52689ffb71b19d:0xf9920cc20e70581b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52689ffb71b19d:0xf9920cc20e70581b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27790949999999,13.0580588,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>A Cube</name>
+		<address>F29 Burma bazaar, Rajaji Rd, Chennai, Tamil Nadu 600001</address>
+		<snippet>F29 Burma bazaar, Rajaji Rd, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f4f59df407b:0x89981688f38c3a11&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f4f59df407b:0x89981688f38c3a11&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.29189479999999,13.0926176,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Greet Bazaar</name>
+		<address>22, Manickam St, Choolai, Chennai, Tamil Nadu 600112</address>
+		<phoneNumber>044 4287 2444</phoneNumber>
+		<snippet>22, Manickam St, Choolai, Chennai, Tamil Nadu 600112</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5265e675434f41:0x1f269624602222c8&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5265e675434f41:0x1f269624602222c8&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25990109999999,13.0915989,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Burma Bazaar</name>
+		<address>Burma Bazaar, N Fort Rd, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>Burma Bazaar, N Fort Rd, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f7cc0eb06d1:0x8f565dda119020a3&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f7cc0eb06d1:0x8f565dda119020a3&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2898847,13.0870385,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Vegetable Bazaar</name>
+		<address>2623+395, Alandur Market Ln, Alandur, Ramapuram, Tamil Nadu 600016</address>
+		<snippet>2623+395, Alandur Market Ln, Alandur, Ramapuram, Tamil Nadu 600016</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526744b245373f:0x428e5548ea791a60&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526744b245373f:0x428e5548ea791a60&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.20347529999999,13.0001432,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Moore Market</name>
+		<address>3 Elephant Gate Bridge Road, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</address>
+		<snippet>3 Elephant Gate Bridge Road, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5265f987d2207d:0xf3580384dfecf476&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5265f987d2207d:0xf3580384dfecf476&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2712767,13.091149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Smart Bazaar</name>
+		<address>Basement 1 Express Avenue, Whites Road 2, Club House Road, Anna Salai, Express Estate, Royapettah, Chennai, Tamil Nadu 600014</address>
+		<snippet>Basement 1 Express Avenue, Whites Road 2, Club House Road, Anna Salai, Express Estate, Royapettah, Chennai, Tamil Nadu 600014</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52663d6413ef7b:0x12efa2a62735b1fb&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52663d6413ef7b:0x12efa2a62735b1fb&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.26431219999999,13.0587349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>MANNADI MAIN MARKET</name>
+		<address>Jones Ln, Mannadi, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>Jones Ln, Mannadi, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526fb5ee7357d7:0x2162f189f2fa3711&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526fb5ee7357d7:0x2162f189f2fa3711&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2870583,13.0949406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>বাঙালি বাজার</name>
+		<address>3763+CW5, Thousand Lights East, Thousand Lights, Chennai, Tamil Nadu 600008</address>
+		<snippet>3763+CW5, Thousand Lights East, Thousand Lights, Chennai, Tamil Nadu 600008</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52679fd09a3d81:0x36c9d4e161794f9c&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52679fd09a3d81:0x36c9d4e161794f9c&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2548549,13.0610175,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Burma Bajar Shops</name>
+		<address>Burma Bazaar No:299, Chennai, Tamil Nadu</address>
+		<snippet>Burma Bazaar No:299, Chennai, Tamil Nadu</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526fbdb17aa88f:0x76a17de642e94114&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526fbdb17aa88f:0x76a17de642e94114&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.29094889999999,13.0896229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>South Mada Street Market</name>
+		<address>27J9+XM2, S Mada St, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004</address>
+		<snippet>27J9+XM2, S Mada St, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5267e85133430b:0xa690206a4dabbf44&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5267e85133430b:0xa690206a4dabbf44&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2691562,13.0323932,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>CHENNI BEACH MARKET</name>
+		<address>37RR+8C9, Mannadi, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>37RR+8C9, Mannadi, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526ff918450727:0x39eba648112a61f4&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526ff918450727:0x39eba648112a61f4&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.29112019999999,13.0907799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>বাজার</name>
+		<address>Shop No 1, New, 62 A, Jeenis Rd, Saidapet, Chennai, Tamil Nadu 600015</address>
+		<snippet>Shop No 1, New, 62 A, Jeenis Rd, Saidapet, Chennai, Tamil Nadu 600015</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5267e5df4b7c33:0x6e3f2da061e0c0f1&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5267e5df4b7c33:0x6e3f2da061e0c0f1&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2234957,13.021153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>MGR Market</name>
+		<address>26P2+2C3, Kalaignar Karunanidhi Rd, MGR Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083</address>
+		<snippet>26P2+2C3, Kalaignar Karunanidhi Rd, MGR Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5266d8639c6e35:0xc8ca0359861925b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5266d8639c6e35:0xc8ca0359861925b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.20106609999999,13.0350141,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Washermanpet Market</name>
+		<address>Washermanpet, Chennai, Tamil Nadu 600021</address>
+		<snippet>Washermanpet, Chennai, Tamil Nadu 600021</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f64861b3af9:0xeb6a1a05c8a9b451&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f64861b3af9:0xeb6a1a05c8a9b451&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.283289,13.1142292,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Chennai Corporation Market</name>
+		<address>36XJ+594, KK Nagar, Ayanavaram, Chennai, Tamil Nadu 600023</address>
+		<snippet>36XJ+594, KK Nagar, Ayanavaram, Chennai, Tamil Nadu 600023</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526434a0fb05fd:0xe5f87b7181a1216e&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526434a0fb05fd:0xe5f87b7181a1216e&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.23094709999999,13.0978903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Sri Ellaiamman Market</name>
+		<address>37J9+PH9, Narayana St, Park Town, Chennai, Tamil Nadu 600007</address>
+		<snippet>37J9+PH9, Narayana St, Park Town, Chennai, Tamil Nadu 600007</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5266077c940fc9:0x38b880c42e64a7f6&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5266077c940fc9:0x38b880c42e64a7f6&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.26899259999999,13.0817935,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Mirsahibpet Market</name>
+		<address>3739+7H4, மரு.பெசண்ட் சாலை, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014</address>
+		<snippet>3739+7H4, மரு.பெசண்ட் சாலை, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5266247a46fb15:0x15da2f51ec3a5827&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5266247a46fb15:0x15da2f51ec3a5827&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2689511,13.0531416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Smart Bazaar</name>
+		<address>Phoenix Market City, Velachery Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042</address>
+		<snippet>Phoenix Market City, Velachery Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526762370001a5:0x3a0ac6abd2fa4f51&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526762370001a5:0x3a0ac6abd2fa4f51&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.216455,12.9910099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>NEHRU MARKET SHOPPING COMPLEX</name>
+		<address>37RC+43J, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</address>
+		<snippet>37RC+43J, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526568ca566113:0xf566eeead5e9d971&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526568ca566113:0xf566eeead5e9d971&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2701371,13.0903309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Adam Market</name>
+		<address>No. 30, 339, Triplicane High Rd, Indra Nagar, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>No. 30, 339, Triplicane High Rd, Indra Nagar, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52661c29015b67:0xda1d936df1962cf&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52661c29015b67:0xda1d936df1962cf&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2737683,13.0650245,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Mannadi market</name>
+		<address>6/236, Amman Koil St, Asirvada Puram, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>6/236, Amman Koil St, Asirvada Puram, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526fc828f19173:0xc6f8a7a0273a687a&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526fc828f19173:0xc6f8a7a0273a687a&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.285208,13.0977656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Subbamal Street Market</name>
+		<address>477H+4FJ, pandiyan theater, market, Subbammal St, Washermanpet, Chennai, Tamil Nadu 600021</address>
+		<snippet>477H+4FJ, pandiyan theater, market, Subbammal St, Washermanpet, Chennai, Tamil Nadu 600021</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f6245b8fcdb:0x459f8d1cb6098c8c&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f6245b8fcdb:0x459f8d1cb6098c8c&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27864699999999,13.11283,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Famous Super Bazaar</name>
+		<address>No.104, Netta Muthiyalkhan St, Bharathi Nagar, Ayanavaram, Chennai, Tamil Nadu 600023</address>
+		<snippet>No.104, Netta Muthiyalkhan St, Bharathi Nagar, Ayanavaram, Chennai, Tamil Nadu 600023</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5265f0c7e39739:0x398ac91ab2ca4a8a&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5265f0c7e39739:0x398ac91ab2ca4a8a&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.22914229999999,13.0974322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>China Bazar சைனா பஜார்</name>
+		<address>249, MMDA Colony Main Rd, Q Block, MMDA Colony, Choolaimedu, Chennai, Tamil Nadu 600106</address>
+		<snippet>249, MMDA Colony Main Rd, Q Block, MMDA Colony, Choolaimedu, Chennai, Tamil Nadu 600106</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52670ebb34bce9:0xf2b6c279b25e662b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52670ebb34bce9:0xf2b6c279b25e662b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2145524,13.0661669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Sri Periandavar Super Bazaar</name>
+		<address>Gandhi Road, Thirumalairayanpattinam, Karunabigai Colony, Velachery, Chennai, Tamil Nadu 600042</address>
+		<phoneNumber>098841 35359</phoneNumber>
+		<snippet>Gandhi Road, Thirumalairayanpattinam, Karunabigai Colony, Velachery, Chennai, Tamil Nadu 600042</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a525d812ed8cb3d:0x42229a884c83b442&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a525d812ed8cb3d:0x42229a884c83b442&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.22509239999999,12.9863463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Market Links</name>
+		<address>12, Kondi Chetty Street, Kondi Chetty Street, Chennai, Tamil Nadu 600001</address>
+		<phoneNumber>044 2538 3294</phoneNumber>
+		<snippet>12, Kondi Chetty Street, Kondi Chetty Street, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f51f63eafb9:0x3e0c93c5a33a7611&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f51f63eafb9:0x3e0c93c5a33a7611&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.28694109999999,13.0885286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Marina Beach Fish Market</name>
+		<address>27HH+7CG, Demonte St, Dummingkuppam, Foreshore Estate, Chennai, Tamil Nadu 600004</address>
+		<snippet>27HH+7CG, Demonte St, Dummingkuppam, Foreshore Estate, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52687858eda229:0x2531b199df0ec140&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52687858eda229:0x2531b199df0ec140&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2785937,13.0281952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Kudubuddi Market</name>
+		<address>472G+WXJ, Muniappa Street, Kondithope, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>472G+WXJ, Muniappa Street, Kondithope, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f5f7806b7c5:0x931bfc389c4e9060&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f5f7806b7c5:0x931bfc389c4e9060&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27740539999999,13.1023272,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Olakadai Market</name>
+		<address>39/42, Angappa Naicken St, Seethakadi Nagar, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>39/42, Angappa Naicken St, Seethakadi Nagar, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f445a5aadf5:0xbe8814db80518821&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f445a5aadf5:0xbe8814db80518821&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2911458,13.0980083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Budget Bazaar</name>
+		<address>103/8, Ashok Nagar Main Rd, Dr.Subbaraya Nagar, Kodambakkam, Chennai, Tamil Nadu 600024</address>
+		<phoneNumber>044 4353 3133</phoneNumber>
+		<snippet>103/8, Ashok Nagar Main Rd, Dr.Subbaraya Nagar, Kodambakkam, Chennai, Tamil Nadu 600024</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5266e57e5709a9:0x7dd6dae52d9489d9&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5266e57e5709a9:0x7dd6dae52d9489d9&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.21839899999999,13.045826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Chennai Bazaar Online Shopping</name>
+		<address>No.3, Club Rd, M.S. Nagar, Chetpet, Chennai, Tamil Nadu 600001</address>
+		<snippet>No.3, Club Rd, M.S. Nagar, Chetpet, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526673d58813c9:0x7633ad5a8cc91de0&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526673d58813c9:0x7633ad5a8cc91de0&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2489085,13.0730469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Periya Market</name>
+		<address>477M+M6C, Venkata Krishnan St, Washermanpet, Chennai, Tamil Nadu 600021</address>
+		<snippet>477M+M6C, Venkata Krishnan St, Washermanpet, Chennai, Tamil Nadu 600021</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f64889dbfe5:0x4b16e65ca2bcbbcb&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f64889dbfe5:0x4b16e65ca2bcbbcb&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.28300849999999,13.1141924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Market</name>
+		<address>55, Main St, Market Farm, Tondiarpet, Chennai, Tamil Nadu 600081</address>
+		<snippet>55, Main St, Market Farm, Tondiarpet, Chennai, Tamil Nadu 600081</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f2bb56e43b1:0xdb95ce3d5b6e4b3d&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f2bb56e43b1:0xdb95ce3d5b6e4b3d&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2943233,13.137268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Vegetables market</name>
+		<address>37RM+JRM, Audiappa Naicken St, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>37RM+JRM, Audiappa Naicken St, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526fbb83a6a057:0xc43ae1f8a1ed8560&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526fbb83a6a057:0xc43ae1f8a1ed8560&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.28456079999999,13.0915944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Roshan kapda bazar</name>
+		<address>26H6+87G, School St, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083</address>
+		<snippet>26H6+87G, School St, Jawahar Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5267780ade246b:0xf832255d6de5c341&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5267780ade246b:0xf832255d6de5c341&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2106878,13.0283136,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Krishna agency</name>
+		<address>37RR+X6G, Moore St, Mannadi, George Town, Chennai, Tamil Nadu 600001</address>
+		<snippet>37RR+X6G, Moore St, Mannadi, George Town, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526f4fa738d065:0x7ec035c137cc691c&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526f4fa738d065:0x7ec035c137cc691c&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.29050549999999,13.0924653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Popular Luz Pavement Market</name>
+		<address>27P7+X24, Luz Church Rd, Bhaskarapuram, Mylapore, Chennai, Tamil Nadu 600004</address>
+		<snippet>27P7+X24, Luz Church Rd, Bhaskarapuram, Mylapore, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526633212f9e1d:0x88f24402d9dcdeb3&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526633212f9e1d:0x88f24402d9dcdeb3&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.26259039999999,13.0373812,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Messapet Market</name>
+		<address>Periyamet, Chennai, Tamil Nadu</address>
+		<phoneNumber>090940 94552</phoneNumber>
+		<snippet>Periyamet, Chennai, Tamil Nadu</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5265fdfba01291:0x9d27df51aeb21ed3&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5265fdfba01291:0x9d27df51aeb21ed3&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27071839999999,13.0826802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>London Market</name>
+		<address>No 1b, varachithi vinayagar koil street, nemilichery , chrompet, Chennai, Tamil Nadu 600044</address>
+		<snippet>No 1b, varachithi vinayagar koil street, nemilichery , chrompet, Chennai, Tamil Nadu 600044</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52674f29b9b18d:0xaa79576af2a90c19&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52674f29b9b18d:0xaa79576af2a90c19&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.19599239999999,13.0047967,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Meraso Market</name>
+		<address>26P6+VG8, Dr Natesan Salai, Raghavareddy Colony, Zaffarkhanpet, Ashok Nagar, Chennai, Tamil Nadu 600083</address>
+		<snippet>26P6+VG8, Dr Natesan Salai, Raghavareddy Colony, Zaffarkhanpet, Ashok Nagar, Chennai, Tamil Nadu 600083</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5266e05f8e894f:0x9e764de77a8f66bd&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5266e05f8e894f:0x9e764de77a8f66bd&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.21132229999999,13.0371072,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Habbat super market</name>
+		<address>prince village phase 1, Thiruvalluvar Nagar, New Washermenpet, Tondiarpet, Tamil Nadu 600081</address>
+		<snippet>prince village phase 1, Thiruvalluvar Nagar, New Washermenpet, Tondiarpet, Tamil Nadu 600081</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5263a1ba65e24b:0x8819bcc2e30bbfb7&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5263a1ba65e24b:0x8819bcc2e30bbfb7&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.1333386,13.1150178,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>bhaji market</name>
+		<address>105, Royapettah High Rd Flyover, Kalpalayam, Kolathur, Chennai, Tamil Nadu 600099</address>
+		<snippet>105, Royapettah High Rd Flyover, Kalpalayam, Kolathur, Chennai, Tamil Nadu 600099</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52658cb8a84311:0xc58a6cc58b167bfe&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52658cb8a84311:0xc58a6cc58b167bfe&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2077506,13.1360349,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>2Q Fresh Fish and meat Bazar</name>
+		<address>No1, 2nd Arch, Amudham Nagar, Kodungaiyur, Chennai, Tamil Nadu 600118</address>
+		<snippet>No1, 2nd Arch, Amudham Nagar, Kodungaiyur, Chennai, Tamil Nadu 600118</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a5265425b23706b:0xe134f56f7abbcda6&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a5265425b23706b:0xe134f56f7abbcda6&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2508818,13.1376952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Kanne Mara Market</name>
+		<address>37C7+GPP, Pudupet, Komaleeswaranpet, Egmore, Chennai, Tamil Nadu 600002</address>
+		<snippet>37C7+GPP, Pudupet, Komaleeswaranpet, Egmore, Chennai, Tamil Nadu 600002</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a52660fe896bfb7:0x9d67339a4854476b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a52660fe896bfb7:0x9d67339a4854476b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2643236,13.0713193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Matrimonial</name>
+		<address>Tondiarpet High Rd, Teacher&apos;s Colony, Kodungaiyur, Chennai, Tamil Nadu 600118</address>
+		<snippet>Tondiarpet High Rd, Teacher&apos;s Colony, Kodungaiyur, Chennai, Tamil Nadu 600118</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=13.0782&lng=80.2805&fid=0x3a526560a4483ecb:0x4e64074160fc97&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=13.0782&amp;lng=80.2805&amp;fid=0x3a526560a4483ecb:0x4e64074160fc97&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.24458039999999,13.1295243,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

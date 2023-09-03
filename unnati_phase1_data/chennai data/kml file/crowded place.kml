@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>crowded places in chennai</name>
+	<Placemark id="1.2.1">
+		<name>Government Museum Chennai</name>
+		<address>Government Maternity Hospital, Pantheon Rd, Egmore, Chennai, Tamil Nadu 600008</address>
+		<phoneNumber>044 2819 3238</phoneNumber>
+		<snippet>Government Maternity Hospital, Pantheon Rd, Egmore, Chennai, Tamil Nadu 600008</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52660ef39b8afb:0x9507fa7b131c1c36&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52660ef39b8afb:0x9507fa7b131c1c36&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2567955,13.0716298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Semmozhi Poonga</name>
+		<address>3722+6H7, Cathedral Rd, opposite American Consulate, Ellaiamman Colony, Teynampet, Chennai, Tamil Nadu 600086</address>
+		<snippet>3722+6H7, Cathedral Rd, opposite American Consulate, Ellaiamman Colony, Teynampet, Chennai, Tamil Nadu 600086</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526646fd0e5771:0x8953747b4da657db&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526646fd0e5771:0x8953747b4da657db&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2514128,13.0505371,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Akkarai Beach</name>
+		<address>Injambakkam, Chennai, Tamil Nadu 600119</address>
+		<snippet>Injambakkam, Chennai, Tamil Nadu 600119</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525b600b61da49:0xfa3304d181550b2c&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#geocode</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525b600b61da49:0xfa3304d181550b2c&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25408829999999,12.8980359,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Marina Beach</name>
+		<address>376P+2JP, Marina Beach, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>376P+2JP, Marina Beach, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269dcdbe54c39:0xa34656d98a6ba90b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269dcdbe54c39:0xa34656d98a6ba90b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2865645,13.0600905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Fort St.George Museum</name>
+		<address>Rajaji Rd, near Legislature and Secretariat, Fort St George, Chennai, Tamil Nadu 600009</address>
+		<phoneNumber>044 2567 1127</phoneNumber>
+		<snippet>Rajaji Rd, near Legislature and Secretariat, Fort St George, Chennai, Tamil Nadu 600009</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5268ad0fe75195:0x4cff4a37449c92fd&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5268ad0fe75195:0x4cff4a37449c92fd&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.28761849999999,13.0806383,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Arulmigu Vadapalani Murugan Temple</name>
+		<address>Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026</address>
+		<phoneNumber>088832 29628</phoneNumber>
+		<snippet>Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5266ebc772bfc1:0x57c7c06d2918742b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5266ebc772bfc1:0x57c7c06d2918742b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.21352089999999,13.0528421,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Arulmigu Sri Parthasarathy Perumal Temple Tiruvallikeni</name>
+		<address>Car St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<phoneNumber>044 2844 2462</phoneNumber>
+		<snippet>Car St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52689dfe1e93a1:0xaa50bb6e69dbeb20&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52689dfe1e93a1:0xaa50bb6e69dbeb20&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27695609999999,13.0538068,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Vivekananda House</name>
+		<address>Kamaraj Salai, Marina Beach Road, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<phoneNumber>044 2844 6188</phoneNumber>
+		<snippet>Kamaraj Salai, Marina Beach Road, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52689cc49d64dd:0x488b6c9faaa9031&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52689cc49d64dd:0x488b6c9faaa9031&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2804464,13.0494354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Gandhi Beach Chennai</name>
+		<address>Chennai Lighthouse, Marina Walk, Marina Beach, Triplicane, Chennai, Tamil Nadu 600004</address>
+		<phoneNumber>1800 4253 1111</phoneNumber>
+		<snippet>Chennai Lighthouse, Marina Walk, Marina Beach, Triplicane, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52688122fc37d1:0x56deda62ccc4cb94&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52688122fc37d1:0x56deda62ccc4cb94&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2814025,13.0411187,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Santhome Cathedral Basilica</name>
+		<address>38, Santhome High Rd, Dummingkuppam, Mylapore, Chennai, Tamil Nadu 600004</address>
+		<snippet>38, Santhome High Rd, Dummingkuppam, Mylapore, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52687f5255b81f:0xa148dd2e4ab794de&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>http://www.google.com/earth/rpc/search?q=crowded%20places%20in%20chennai&amp;start=0&amp;sll=12.976,80.2486&amp;sspn=0.296159,0.153581&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft%20Windows%20(6.2.9200.0);en;kml:2.2;client:Pro;type:default)&amp;output=xml#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52687f5255b81f:0xa148dd2e4ab794de&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27763639999999,13.0336604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>Dr. APJ Abdul Kalam Park</name>
+		<address>Loyola College, Nungambakkam, Chennai, Tamil Nadu 600034</address>
+		<phoneNumber>1800 4253 1111</phoneNumber>
+		<snippet>Loyola College, Nungambakkam, Chennai, Tamil Nadu 600034</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5266618574c3f5:0xb0d6cdc63298001&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5266618574c3f5:0xb0d6cdc63298001&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.234314,13.0631126,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Tree Monument</name>
+		<address>378M+592, Shankar Rd, Navalar Nagar, Chepauk, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>378M+592, Shankar Rd, Navalar Nagar, Chepauk, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269e7b7380e51:0x15eb3fb67e433aac&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269e7b7380e51:0x15eb3fb67e433aac&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2834,13.0653833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Shri Ashtalakshmi Temple</name>
+		<address>X7VC+25R, Beach Rd, Kalakshetra Colony, Besant Nagar, Chennai, Tamil Nadu 600090</address>
+		<phoneNumber>044 2446 6777</phoneNumber>
+		<snippet>X7VC+25R, Beach Rd, Kalakshetra Colony, Besant Nagar, Chennai, Tamil Nadu 600090</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267f8c7c73f73:0x7acee9c16c9d6b57&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267f8c7c73f73:0x7acee9c16c9d6b57&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27039019999999,12.9926039,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Thousand Lights Shia Mosque</name>
+		<address>3734+X27, Royapettah, Peter&apos;s Rd, Peters Colony, Thousand Lights, Chennai, Tamil Nadu 600086</address>
+		<phoneNumber>044 2851 8195</phoneNumber>
+		<snippet>3734+X27, Royapettah, Peter&apos;s Rd, Peters Colony, Thousand Lights, Chennai, Tamil Nadu 600086</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52663f641c6e2b:0xbb6388f738a254d7&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52663f641c6e2b:0xbb6388f738a254d7&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25503429999999,13.0549155,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Victoria Public Hall</name>
+		<address>11/33, Evr Salai, Park Town, Kannappar Thidal, Poongavanapuram, Chennai, Tamil Nadu 600003</address>
+		<snippet>11/33, Evr Salai, Park Town, Kannappar Thidal, Poongavanapuram, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526607eac92715:0xb3f5c1e3cfb30e88&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526607eac92715:0xb3f5c1e3cfb30e88&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2726339,13.0818644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Battlefield - Seige of Madras</name>
+		<address>253X+RCP, near Chakrapani Colony, Chakrapani Colony, St.Thomas Mount, Ramapuram, Tamil Nadu 600016</address>
+		<snippet>253X+RCP, near Chakrapani Colony, Chakrapani Colony, St.Thomas Mount, Ramapuram, Tamil Nadu 600016</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267081c7a1d55:0x70a946626fa01a02&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267081c7a1d55:0x70a946626fa01a02&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.1985761,13.0045999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Chennai Lighthouse</name>
+		<address>Marina Beach Road, Marina Beach, Mylapore, Chennai, Tamil Nadu 600004</address>
+		<snippet>Marina Beach Road, Marina Beach, Mylapore, Chennai, Tamil Nadu 600004</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526880556ddae5:0x5c17bd7aecfd0209&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526880556ddae5:0x5c17bd7aecfd0209&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27923029999999,13.0397427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Covum River mouth</name>
+		<address>378R+Q34, Pier, Port Trust Officers Quarters, Sathya Nagar, Chennai Port Trust, Chennai, Tamil Nadu 600001</address>
+		<snippet>378R+Q34, Pier, Port Trust Officers Quarters, Sathya Nagar, Chennai Port Trust, Chennai, Tamil Nadu 600001</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269ce88e25f53:0x30f5b6679a36876b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269ce88e25f53:0x30f5b6679a36876b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2902143,13.0668969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>Chennai Day/ Memorable Wall Art for Fishermen</name>
+		<address>372H+9V7, Opp.Lady Willingdon School, near Vivekananda House, Ayothiya Nagar, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>372H+9V7, Opp.Lady Willingdon School, near Vivekananda House, Ayothiya Nagar, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269f37e8f3fef:0x4ef69a40f80cce4b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269f37e8f3fef:0x4ef69a40f80cce4b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27966649999999,13.0509193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Rajaji Memorial - Chennai, Tamilnadu</name>
+		<address>264Q+JM2, Guindy National Park, Guindy, Chennai, Tamil Nadu 600022</address>
+		<snippet>264Q+JM2, Guindy National Park, Guindy, Chennai, Tamil Nadu 600022</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52679bddefa007:0x8e396a1464193546&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52679bddefa007:0x8e396a1464193546&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2391454,13.0065181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>South Chennai</name>
+		<address>W68W+26R, 2nd St, Shalimar Garden, Injambakkam, Chennai, Tamil Nadu 600115</address>
+		<snippet>W68W+26R, 2nd St, Shalimar Garden, Injambakkam, Chennai, Tamil Nadu 600115</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525d98daa6e4bd:0xb171adb9f059c6a&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525d98daa6e4bd:0xb171adb9f059c6a&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2455173,12.915124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Jeeva Park</name>
+		<address>3/2, Arul Ammal Street, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017</address>
+		<snippet>3/2, Arul Ammal Street, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526650d541d535:0x9c72e18e5faa4de7&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526650d541d535:0x9c72e18e5faa4de7&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2377935,13.0439662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Panagal Park</name>
+		<address>Nageswaran Rao Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017</address>
+		<snippet>Nageswaran Rao Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5266560ee566f1:0xf173a375f3a14a97&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5266560ee566f1:0xf173a375f3a14a97&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2332009,13.0412089,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Golden Beach</name>
+		<address>W764+CFW, Injambakkam, Chennai, Tamil Nadu 600115</address>
+		<snippet>W764+CFW, Injambakkam, Chennai, Tamil Nadu 600115</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525d1e462e0fcd:0xf608b998abd24fcb&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525d1e462e0fcd:0xf608b998abd24fcb&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25620549999999,12.9111207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Chetpet Ecopark</name>
+		<address>KMC, 814, Poonamallee High Rd, Opposite to, New Bupathy Nagar, Kilpauk, Chennai, Tamil Nadu 600010</address>
+		<phoneNumber>044 2836 0250</phoneNumber>
+		<snippet>KMC, 814, Poonamallee High Rd, Opposite to, New Bupathy Nagar, Kilpauk, Chennai, Tamil Nadu 600010</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526679bb42c17b:0x6e14b1b08f19b5a9&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526679bb42c17b:0x6e14b1b08f19b5a9&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2410836,13.0767297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>VGP Marine Kingdom</name>
+		<address>SH 49, Injambakkam, Chennai, Tamil Nadu 600115</address>
+		<phoneNumber>089399 32222</phoneNumber>
+		<snippet>SH 49, Injambakkam, Chennai, Tamil Nadu 600115</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525d24f3237985:0x2fdefc2effbd9d8b&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525d24f3237985:0x2fdefc2effbd9d8b&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25067199999999,12.9121662,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>DakshinaChitra Heritage Museum</name>
+		<address>R6FR+4M4, SH 49, Muthukadu, Tamil Nadu 603112</address>
+		<phoneNumber>098410 20149</phoneNumber>
+		<snippet>R6FR+4M4, SH 49, Muthukadu, Tamil Nadu 603112</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525a8e2bb47f8f:0x58a72389ff4df633&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525a8e2bb47f8f:0x58a72389ff4df633&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2420451,12.823037,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Secretariat Park, Chennai</name>
+		<address>19, Rajaji Salai, Fort St George, Chennai, Tamil Nadu 600009</address>
+		<snippet>19, Rajaji Salai, Fort St George, Chennai, Tamil Nadu 600009</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5268b27a11ac19:0xb235419fb099214&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5268b27a11ac19:0xb235419fb099214&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2882834,13.0793055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>May Day Park</name>
+		<address>37FF+97H, Dy Mayor Kabalamoorthy Salai, Chintadripet, Chennai, Tamil Nadu 600002</address>
+		<snippet>37FF+97H, Dy Mayor Kabalamoorthy Salai, Chintadripet, Chennai, Tamil Nadu 600002</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5266030899228d:0xc7f958f20c31d927&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5266030899228d:0xc7f958f20c31d927&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27322219999999,13.0734444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Kotturpuram Tree Park</name>
+		<address>26FV+HQV, River View Road, Adyar House, Kotturpuram, Chennai, Tamil Nadu 600085</address>
+		<snippet>26FV+HQV, River View Road, Adyar House, Kotturpuram, Chennai, Tamil Nadu 600085</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267b00af35131:0x879c244b9401a404&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267b00af35131:0x879c244b9401a404&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2444108,13.0239815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>CHENNAI CITY SAI KRISHNA</name>
+		<address>49, Raja Muthiah Rd, Vadapalani, Park Town, Chennai, Tamil Nadu 600003</address>
+		<snippet>49, Raja Muthiah Rd, Vadapalani, Park Town, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5265fdfba01291:0x5c5f320648c6762e&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5265fdfba01291:0x5c5f320648c6762e&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27071839999999,13.0826802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Chennai Corporation Robinson park</name>
+		<address>Cemetery Rd, Pudumanaikuppam, Royapuram, Chennai, Tamil Nadu 600013</address>
+		<snippet>Cemetery Rd, Pudumanaikuppam, Royapuram, Chennai, Tamil Nadu 600013</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526f661c7826af:0xa11867278402f7f4&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526f661c7826af:0xa11867278402f7f4&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.28784189999999,13.1084894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Chennai Tourism</name>
+		<address>No19, Whannals Road, Egmore, (Opp to Egmore Railway Station), Chennai, Tamil Nadu 600008</address>
+		<phoneNumber>044 3535 6545</phoneNumber>
+		<snippet>No19, Whannals Road, Egmore, (Opp to Egmore Railway Station), Chennai, Tamil Nadu 600008</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526608c7e0abe3:0x3c46f6935733edab&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526608c7e0abe3:0x3c46f6935733edab&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2642827,13.0769396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Parrot Sudarson</name>
+		<address>2, Iyya Mudali St, Adikesavarpuram, Chintadripet, Chennai, Tamil Nadu 600002</address>
+		<snippet>2, Iyya Mudali St, Adikesavarpuram, Chintadripet, Chennai, Tamil Nadu 600002</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52673f2a820b89:0xdf66f55f098c58b0&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52673f2a820b89:0xdf66f55f098c58b0&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2705046,13.0785108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Agaramthen lake</name>
+		<address>V4HW+FH, Chennai, Tamil Nadu 600048</address>
+		<snippet>V4HW+FH, Chennai, Tamil Nadu 600048</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5259af71ec4d4d:0x80d8d54540dd480e&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5259af71ec4d4d:0x80d8d54540dd480e&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.1464036,12.8787249,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Tholkappia Poonga [Adyar Eco-Park]</name>
+		<address>2797+MVG, Karpagam Avenue, Mandavelipakkam, Raja Annamalai Puram, Chennai, Tamil Nadu 600028</address>
+		<phoneNumber>044 2461 4523</phoneNumber>
+		<snippet>2797+MVG, Karpagam Avenue, Mandavelipakkam, Raja Annamalai Puram, Chennai, Tamil Nadu 600028</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267dcaa41f623:0x8156472c366fcef2&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267dcaa41f623:0x8156472c366fcef2&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.26468939999999,13.0191915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Guindy National Park</name>
+		<address>Rangeguindy, Chennai, Tamil Nadu 600025</address>
+		<phoneNumber>044 2220 0335</phoneNumber>
+		<snippet>Rangeguindy, Chennai, Tamil Nadu 600025</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526779bf1f61f3:0xeaabf055ed85268d&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526779bf1f61f3:0xeaabf055ed85268d&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.23787249999999,13.0049251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Detroit of Asia</name>
+		<address>37FP+96X, Port Trust Officers Quarters, Sathya Nagar, Chennai Port Trust, Chennai, Tamil Nadu 600009</address>
+		<snippet>37FP+96X, Port Trust Officers Quarters, Sathya Nagar, Chennai Port Trust, Chennai, Tamil Nadu 600009</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526945d628432d:0x76d2cde5c0db57c0&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526945d628432d:0x76d2cde5c0db57c0&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2856039,13.0734951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>My Ladys Garden</name>
+		<address>59-98 &amp; 1-16,32-42,60-98,75-98, Raja Muthiah Rd, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</address>
+		<snippet>59-98 &amp; 1-16,32-42,60-98,75-98, Raja Muthiah Rd, Kannappar Thidal, Periyamet, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5265f94315034b:0x6e31ff8c856cd979&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5265f94315034b:0x6e31ff8c856cd979&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.272204,13.0882587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>The spot</name>
+		<address>4, Mullima Nagar, Block AS, Foreshore Estate, Chennai, Tamil Nadu 600028</address>
+		<snippet>4, Mullima Nagar, Block AS, Foreshore Estate, Chennai, Tamil Nadu 600028</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269a6a7a356bb:0x2be6c4a09d441768&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269a6a7a356bb:0x2be6c4a09d441768&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27847989999999,13.0237669,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.2.1">
+		<name>मरीना बीच चेन्नई</name>
+		<address>27XJ+XXJ, Marina Beach, Triplicane, Chennai, Tamil Nadu 600005</address>
+		<snippet>27XJ+XXJ, Marina Beach, Triplicane, Chennai, Tamil Nadu 600005</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5269b960b5ac3f:0x5c9bd7faca995bbb&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5269b960b5ac3f:0x5c9bd7faca995bbb&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2824026,13.0499526,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Bessy hanging Challenge</name>
+		<address>X7XC+3CF, Odaimanagar, Besant Nagar, Chennai, Tamil Nadu 600090</address>
+		<snippet>X7XC+3CF, Odaimanagar, Besant Nagar, Chennai, Tamil Nadu 600090</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267b497ba8f85:0x1149f1c7f2c08634&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267b497ba8f85:0x1149f1c7f2c08634&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2710606,12.9976987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Wild Garden</name>
+		<address>28, Whites Rd, Amethyst, Royapettah, Chennai, Tamil Nadu 600014</address>
+		<phoneNumber>044 4599 1633</phoneNumber>
+		<snippet>28, Whites Rd, Amethyst, Royapettah, Chennai, Tamil Nadu 600014</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x110565bc3d376c73:0x75b5a60e6bd4646c&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x110565bc3d376c73:0x75b5a60e6bd4646c&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25942619999999,13.0572212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>चेन्नई स्टेशन</name>
+		<address>37MC+37G, Vadapalani, Poongavanapuram, Chennai, Tamil Nadu 600003</address>
+		<snippet>37MC+37G, Vadapalani, Poongavanapuram, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5265a6e5128ddf:0x1c4bfd620c6b2f15&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5265a6e5128ddf:0x1c4bfd620c6b2f15&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27071839999999,13.0826802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>Beautiful Beach</name>
+		<address>W7C4+HPW, Harichandra 3rd Cross St, Cholamandal Artists Village, Injambakkam, Chennai, Tamil Nadu 600115</address>
+		<snippet>W7C4+HPW, Harichandra 3rd Cross St, Cholamandal Artists Village, Injambakkam, Chennai, Tamil Nadu 600115</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a525cbf9b4cd16d:0xdf0ac56ce1c79fca&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a525cbf9b4cd16d:0xdf0ac56ce1c79fca&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.25681779999999,12.9214993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>The Theosophical Society</name>
+		<address>Arunachalapuram, Adyar, Chennai, Tamil Nadu 600020</address>
+		<snippet>Arunachalapuram, Adyar, Chennai, Tamil Nadu 600020</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a5267e67634e19d:0xea22c03a48ffb57f&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a5267e67634e19d:0xea22c03a48ffb57f&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2596224,13.010361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Matshya Statue</name>
+		<address>31, Spur Tank road, M.S. Nagar, Mukta Gardens, Chetpet, Chennai, Tamil Nadu 600031</address>
+		<snippet>31, Spur Tank road, M.S. Nagar, Mukta Gardens, Chetpet, Chennai, Tamil Nadu 600031</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52670157975dc9:0xbb01d76c38e8ba64&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52670157975dc9:0xbb01d76c38e8ba64&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.252314,13.0723552,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.9.1">
+		<name>Istalingeshwarar Kovil</name>
+		<address>375F+VP7, Triplicane High Rd, Ellis Puram, Padupakkam, Valasaravakkam, Chennai, Tamil Nadu 600014</address>
+		<phoneNumber>044 4523 6528</phoneNumber>
+		<snippet>375F+VP7, Triplicane High Rd, Ellis Puram, Padupakkam, Valasaravakkam, Chennai, Tamil Nadu 600014</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52661f80d381d9:0x18f96551dbf14613&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_H</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52661f80d381d9:0x18f96551dbf14613&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.27428329999999,13.0596516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.10.1">
+		<name>New Digital Studio And Video</name>
+		<address>36/93 Muthiyalu, Krishnappa Maistry Street, Chennai, Tamil Nadu 600003</address>
+		<snippet>36/93 Muthiyalu, Krishnappa Maistry Street, Chennai, Tamil Nadu 600003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a526f0c9bc4f0bb:0x7f07eb21eed908d1&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_I</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a526f0c9bc4f0bb:0x7f07eb21eed908d1&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2770836,13.0900152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.11.1">
+		<name>Ma.Po.Si Statue</name>
+		<address>26QV+XH6, Balaji St, JJ Nagar, T. Nagar, Chennai, Tamil Nadu 600018</address>
+		<snippet>26QV+XH6, Balaji St, JJ Nagar, T. Nagar, Chennai, Tamil Nadu 600018</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=12.976&lng=80.2486&fid=0x3a52664df2c0747d:0xa2120f2d50f45bd8&hl=en&gl=in&client=earth-client&cv=7.3.6.9345&useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_J</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=12.976&amp;lng=80.2486&amp;fid=0x3a52664df2c0747d:0xa2120f2d50f45bd8&amp;hl=en&amp;gl=in&amp;client=earth-client&amp;cv=7.3.6.9345&amp;useragent=GoogleEarth/7.3.6.9345(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>80.2438925,13.0399213,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
